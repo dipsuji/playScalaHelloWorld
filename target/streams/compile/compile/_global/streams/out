@@ -1,0 +1,16 @@
+[error] /Users/Sujata/IdeaProjects/playScalaHelloWorld/app/views/myIndex.scala.html:25:164: not found: value version
+[error]       <p>Play integrates with many object relational mapping (ORM) layers. It has out-of-the-box support for <a href="https://www.playframework.com/documentation/@version/Anorm"
+[error]                                                                                                                                                                    ^
+[error] /Users/Sujata/IdeaProjects/playScalaHelloWorld/app/views/myIndex.scala.html:26:92: not found: value version
+[error]           target="_blank">Anorm</a>, <a href="https://www.playframework.com/documentation/@version/JavaEbean" target="_blank">JavaEbean</a>,
+[error]                                                                                            ^
+[error] /Users/Sujata/IdeaProjects/playScalaHelloWorld/app/views/myIndex.scala.html:27:63: not found: value version
+[error]         <a href="https://www.playframework.com/documentation/@version/PlaySlick" target="_blank">PlaySlick</a>, and
+[error]                                                               ^
+[error] /Users/Sujata/IdeaProjects/playScalaHelloWorld/app/views/myIndex.scala.html:28:63: not found: value version
+[error]         <a href="https://www.playframework.com/documentation/@version/JavaJPA" target="_blank">JPA</a>. See <a href="https://www.playframework.com/documentation/@version/JavaDatabase"
+[error]                                                               ^
+[error] /Users/Sujata/IdeaProjects/playScalaHelloWorld/app/views/myIndex.scala.html:28:163: not found: value version
+[error]         <a href="https://www.playframework.com/documentation/@version/JavaJPA" target="_blank">JPA</a>. See <a href="https://www.playframework.com/documentation/@version/JavaDatabase"
+[error]                                                                                                                                                                   ^
+[error] 5 errors found

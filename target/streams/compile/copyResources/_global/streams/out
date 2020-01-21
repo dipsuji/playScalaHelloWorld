@@ -1,0 +1,5 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/Sujata/IdeaProjects/playScalaHelloWorld/conf/logback.xml,/Users/Sujata/IdeaProjects/playScalaHelloWorld/target/scala-2.13/classes/logback.xml)
+[debug] 	(/Users/Sujata/IdeaProjects/playScalaHelloWorld/conf/messages,/Users/Sujata/IdeaProjects/playScalaHelloWorld/target/scala-2.13/classes/messages)
+[debug] 	(/Users/Sujata/IdeaProjects/playScalaHelloWorld/conf/application.conf,/Users/Sujata/IdeaProjects/playScalaHelloWorld/target/scala-2.13/classes/application.conf)
+[debug] 	(/Users/Sujata/IdeaProjects/playScalaHelloWorld/conf/routes,/Users/Sujata/IdeaProjects/playScalaHelloWorld/target/scala-2.13/classes/routes)
