@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ca86cb9-1a18-4d64-b48f-dd23690c8d2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/coding_test/DataDemo.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/HomeController.scala" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/HomeController.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$37d716d9a1015e3840bb.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$fe2e868dd4e4d6859600.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$7cc0cce9a0023dd4619f.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/inputs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/update/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/_global/update/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/compileBinaryFileInputs/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/_global/_global/dependencyClasspathFiles/previous" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/compileIncremental/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/copyResources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/_global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/_global/checkBuildSources/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/playCommonClassloader/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/playCommonClassloader/_global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/_global/projectDescriptors/_global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/_global/projectDescriptors/_global/streams/out" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +72,9 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1WhAiS3yqj29sXTR2RtZ82XCPSR" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -66,16 +91,22 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="sbt.project.settings.configurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/images" />
       <recent name="$PROJECT_DIR$/app/views" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="run-config" type="Play2FrameworkRunConfigurations" factoryName="Play 2 App" show_console_on_std_err="false" show_console_on_std_out="false">
+  <component name="RunManager" selected="Scala REPL.Scala REPL">
+    <configuration name="run-config" type="Play2FrameworkRunConfigurations" factoryName="Play 2 App" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="play-scala-hello-world-tutorial" />
       <option name="allowRunningInParallel" value="false" />
       <option name="enableSbtGlobalPlugins" value="false" />
@@ -101,6 +132,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scala REPL" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" temporary="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="play-scala-hello-world-tutorial" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="javaOptions" value="-Djline.terminal=NONE" />
+      <option name="myConsoleArgs" value="" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Scala REPL.Scala REPL" />
+        <item itemvalue="Play 2 App.run-config" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -166,7 +213,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579591579756</updated>
       <workItem from="1579591587985" duration="1658000" />
-      <workItem from="1579594134863" duration="3234000" />
+      <workItem from="1579594134863" duration="3710000" />
+      <workItem from="1579668803425" duration="1641000" />
     </task>
     <servers />
   </component>
@@ -174,33 +222,41 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579591931056">
+    <state x="488" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579695652995">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="488" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1579591931056" />
-    <state width="2006" height="328" key="GridCell.Tab.0.bottom" timestamp="1579594106068">
+    <state x="488" y="239" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1152@0.0.2048.1152" timestamp="1579695652995" />
+    <state width="2006" height="328" key="GridCell.Tab.0.bottom" timestamp="1579695578850">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2006" height="328" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1579594106068" />
-    <state width="2006" height="328" key="GridCell.Tab.0.center" timestamp="1579594106065">
+    <state width="2006" height="328" key="GridCell.Tab.0.bottom/0.0.2048.1152@0.0.2048.1152" timestamp="1579695578850" />
+    <state width="2006" height="328" key="GridCell.Tab.0.bottom/0.23.2048.1046@0.23.2048.1046" timestamp="1579616026575" />
+    <state width="2006" height="328" key="GridCell.Tab.0.center" timestamp="1579695578849">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2006" height="328" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1579594106065" />
-    <state width="2006" height="328" key="GridCell.Tab.0.left" timestamp="1579594106062">
+    <state width="2006" height="328" key="GridCell.Tab.0.center/0.0.2048.1152@0.0.2048.1152" timestamp="1579695578849" />
+    <state width="2006" height="328" key="GridCell.Tab.0.center/0.23.2048.1046@0.23.2048.1046" timestamp="1579616026574" />
+    <state width="2006" height="328" key="GridCell.Tab.0.left" timestamp="1579695578848">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2006" height="328" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1579594106062" />
-    <state width="2006" height="328" key="GridCell.Tab.0.right" timestamp="1579594106067">
+    <state width="2006" height="328" key="GridCell.Tab.0.left/0.0.2048.1152@0.0.2048.1152" timestamp="1579695578848" />
+    <state width="2006" height="328" key="GridCell.Tab.0.left/0.23.2048.1046@0.23.2048.1046" timestamp="1579616026574" />
+    <state width="2006" height="328" key="GridCell.Tab.0.right" timestamp="1579695578849">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state width="2006" height="328" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1579594106067" />
-    <state x="525" y="215" key="SettingsEditor" timestamp="1579591830943">
+    <state width="2006" height="328" key="GridCell.Tab.0.right/0.0.2048.1152@0.0.2048.1152" timestamp="1579695578849" />
+    <state width="2006" height="328" key="GridCell.Tab.0.right/0.23.2048.1046@0.23.2048.1046" timestamp="1579616026575" />
+    <state x="525" y="215" key="SettingsEditor" timestamp="1579695826285">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="525" y="215" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1579591830943" />
-    <state x="401" y="304" key="new project wizard" timestamp="1579614355458">
+    <state x="525" y="215" key="SettingsEditor/0.0.2048.1152@0.0.2048.1152" timestamp="1579695826285" />
+    <state x="678" y="410" key="com.intellij.ide.util.TipDialog" timestamp="1579687554096">
+      <screen x="0" y="23" width="2048" height="1046" />
+    </state>
+    <state x="678" y="410" key="com.intellij.ide.util.TipDialog/0.23.2048.1046@0.23.2048.1046" timestamp="1579687554096" />
+    <state x="401" y="304" key="new project wizard" timestamp="1579695347986">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="401" y="304" key="new project wizard/0.0.2048.1152@0.0.2048.1152" timestamp="1579614355458" />
+    <state x="401" y="304" key="new project wizard/0.0.2048.1152@0.0.2048.1152" timestamp="1579695347986" />
   </component>
 </project>
